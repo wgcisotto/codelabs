@@ -13,15 +13,33 @@ This repository is dedicated to mastering **algorithms**, **data structures**, a
 ---
 
 ## **Repository Structure**
-The project is organized into packages to make navigation easier:
+    .
+    ├── bigo                    # Time and Space Complexity Analysis
+    ├── algorithms              # Algorithm Implementations
+    │   ├── sorting             # Sorting Algorithms (e.g., QuickSort, MergeSort)
+    │   ├── searching           # Searching Algorithms (e.g., Binary Search)
+    │   ├── dynamicprogramming  # Dynamic Programming Algorithms (e.g., Fibonacci, Knapsack)
+    │   ├── greedy              # Greedy Algorithms (e.g., Activity Selection)
+    │   └── backtracking        # Backtracking Algorithms (e.g., N-Queens)
+    ├── datastructures          # Data Structure Implementations
+    │   ├── lists               # Lists (ArrayList, LinkedList, etc.)
+    │   ├── trees               # Trees (Binary Tree, AVL Tree, etc.)
+    │   ├── graphs              # Graph Algorithms (Graph Implementation, Dijkstra)
+    │   ├── stacks              # Stack Implementations
+    │   └── queues              # Queue Implementations
+    ├── concurrency             # Java Concurrency Examples (Threads, Synchronization, etc.)
+    ├── codechallenges          # Coding Challenge Solutions
+    │   ├── leetcode            # LeetCode Challenges
+    │   ├── hackerrank          # HackerRank Challenges
+    │   ├── codeforces          # Codeforces Challenges
+    │   └── topcoder            # TopCoder Challenges
+    ├── designpatterns          # Design Pattern Implementations
+    │   ├── singleton           # Singleton Pattern Example
+    │   ├── factory             # Factory Pattern Example
+    │   └── observer            # Observer Pattern Example
+    ├── utils                   # Utility Classes and Methods
+    └── README.md               # Project Documentation
 
-- **bigo/**: Contains examples and utilities for analyzing time and space complexity.
-- **algorithms/**: Implementations of common algorithms categorized by type (sorting, searching, dynamic programming, greedy, backtracking).
-- **datastructures/**: Fundamental data structures such as lists, trees, graphs, queues, and stacks.
-- **concurrency/**: Examples and exercises related to Java concurrency, including threads, synchronization, and the executor framework.
-- **codechallenges/**: Solutions to coding challenges from platforms like LeetCode, HackerRank, and more.
-- **designpatterns/**: Popular design patterns like Singleton, Factory, and Observer.
-- **utils/**: Utility classes such as mathematical helper functions.
 
 ---
 
