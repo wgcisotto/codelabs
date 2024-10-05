@@ -18,7 +18,7 @@ package com.code.labs.bigo;
  * </p>
  */
 
-//Constant Time = O(1)
+//Constant Time Complexity O(1)
 public class ConstantTime extends BigOArray {
 
     public ConstantTime(int[] array){

@@ -2,7 +2,7 @@ package com.code.labs.bigo;
 
 import java.util.Arrays;
 
-//Linear Time = O(n)
+//Linear Time Complexity O(n)
 public class LinearTime extends BigOArray {
 
     public LinearTime(int[] array) {
