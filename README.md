@@ -15,6 +15,12 @@ This repository is dedicated to mastering **algorithms**, **data structures**, a
 ## **Repository Structure**
     .
     ├── bigo                    # Time and Space Complexity Analysis
+    │   ├── TimeComplexity.java  # Class to analyze time complexity
+    │   ├── SpaceComplexity.java # Class to analyze space complexity
+    │   └── Examples/            # Example classes for different Big O notations
+    │       ├── ConstantTime.java    # O(1) example
+    │       ├── LogarithmicTime.java # O(log n) example
+    │       └── LinearTime.java      # O(n) example
     ├── algorithms              # Algorithm Implementations
     │   ├── sorting             # Sorting Algorithms (e.g., QuickSort, MergeSort)
     │   ├── searching           # Searching Algorithms (e.g., Binary Search)
