@@ -14,6 +14,12 @@ This repository is dedicated to mastering **algorithms**, **data structures**, a
 
 ## **Repository Structure**
     .
+    ├── algorithms              # Algorithm Implementations
+    │   ├── sorting             # Sorting Algorithms (e.g., QuickSort, MergeSort)
+    │   ├── searching           # Searching Algorithms (e.g., Binary Search)
+    │   ├── dynamicprogramming  # Dynamic Programming Algorithms (e.g., Fibonacci, Knapsack)
+    │   ├── greedy              # Greedy Algorithms (e.g., Activity Selection)
+    │   └── backtracking        # Backtracking Algorithms (e.g., N-Queens)
     ├── bigo                    # Time and Space Complexity Analysis
     │   ├── TimeComplexity.java  # Class to analyze time complexity
     │   ├── SpaceComplexity.java # Class to analyze space complexity
@@ -21,12 +27,6 @@ This repository is dedicated to mastering **algorithms**, **data structures**, a
     │       ├── ConstantTime.java    # O(1) example
     │       ├── LogarithmicTime.java # O(log n) example
     │       └── LinearTime.java      # O(n) example
-    ├── algorithms              # Algorithm Implementations
-    │   ├── sorting             # Sorting Algorithms (e.g., QuickSort, MergeSort)
-    │   ├── searching           # Searching Algorithms (e.g., Binary Search)
-    │   ├── dynamicprogramming  # Dynamic Programming Algorithms (e.g., Fibonacci, Knapsack)
-    │   ├── greedy              # Greedy Algorithms (e.g., Activity Selection)
-    │   └── backtracking        # Backtracking Algorithms (e.g., N-Queens)
     ├── datastructures          # Data Structure Implementations
     │   ├── lists               # Lists (ArrayList, LinkedList, etc.)
     │   ├── trees               # Trees (Binary Tree, AVL Tree, etc.)
