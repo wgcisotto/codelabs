@@ -7,10 +7,22 @@
     <groupId>com.code.labs</groupId>
     <artifactId>codelabs</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>algorithms</module>
+        <module>datastructures</module>
+        <module>bigo</module>
+        <module>concurrency</module>
+        <module>designpatterns</module>
+        <module>codechallenges</module>
+        <module>utils</module>
+        <module>codechallenges/interviews</module>
+        <module>codechallenges/hackerrank</module>
+    </modules>
 
     <properties>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
