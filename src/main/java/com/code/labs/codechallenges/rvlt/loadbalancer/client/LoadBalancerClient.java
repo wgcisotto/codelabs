@@ -19,6 +19,10 @@ public class LoadBalancerClient {
         };
     }
 
+    public LoadBalancerClient(LoadBalancer loadBalancerCustom){
+        this.loadBalancer = loadBalancerCustom;
+    }
+
     public void register(String address) throws SizeLimitExceededException {
         loadBalancer.register(address);
     }
