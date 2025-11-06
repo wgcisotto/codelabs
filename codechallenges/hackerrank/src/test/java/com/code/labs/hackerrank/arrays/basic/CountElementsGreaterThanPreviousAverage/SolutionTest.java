@@ -1,11 +1,11 @@
-package com.code.labs.hackerrank.arrays.basic;
+package com.code.labs.hackerrank.arrays.basic.CountElementsGreaterThanPreviousAverage;
 
 import org.junit.jupiter.api.Test;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CountResponseTimeRegressionsTest {
+class SolutionTest {
 
     @Test
     void testNullInput() {

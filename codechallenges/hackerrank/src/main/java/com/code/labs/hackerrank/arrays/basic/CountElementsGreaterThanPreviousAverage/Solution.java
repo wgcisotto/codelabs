@@ -1,4 +1,4 @@
-package com.code.labs.hackerrank.arrays.basic;
+package com.code.labs.hackerrank.arrays.basic.CountElementsGreaterThanPreviousAverage;
 
 import java.util.List;
 

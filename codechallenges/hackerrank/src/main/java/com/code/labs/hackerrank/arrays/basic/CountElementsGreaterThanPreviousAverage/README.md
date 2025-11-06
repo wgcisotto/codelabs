@@ -1,7 +1,6 @@
 # Count Elements Greater Than Previous Average
 
-**Category:** Arrays / Basic Problem Solving  
-**Platform:** HackerRank (Custom Practice Setup)
+**Category:** Arrays / Basic Problem Solving
 
 ---
 
@@ -27,5 +26,5 @@ Skip the first element since it has no previous elements.
 
 ---
 
-## ✅ Example Implementation
+## Implementation
 See [`Solution.java`](./Solution.java) for full implementation.
