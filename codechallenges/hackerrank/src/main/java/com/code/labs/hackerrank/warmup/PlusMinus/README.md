@@ -1,4 +1,4 @@
-# Count Elements Greater Than Previous Average
+# Plus Minus
 
 **Category:** Warm Up / Basic Problem Solving
 
